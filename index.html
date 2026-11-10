@@ -37,15 +37,51 @@ tr:last-child td{border-bottom:0}
 .num{text-align:right;font-variant-numeric:tabular-nums}
 .res.w{color:var(--good);font-weight:650} .res.l{color:var(--bad);font-weight:650} .res.pending,.res.void{color:var(--muted)}
 footer{margin-top:36px;color:var(--muted);font-size:12.5px}
+.tabs{display:flex;gap:4px;margin-top:22px;border-bottom:1px solid var(--line)}
+.tabs button{font:inherit;font-weight:600;color:var(--muted);background:none;border:0;border-bottom:2px solid transparent;
+  padding:8px 12px;margin-bottom:-1px;cursor:pointer}
+.tabs button[aria-selected="true"]{color:var(--ink);border-bottom-color:var(--accent)}
+.tabs .count{font-weight:500;font-size:12px;background:var(--line);border-radius:9px;padding:1px 7px;margin-left:4px}
+.status span{display:block} .ok{color:var(--good);font-weight:650} .pending{color:var(--accent)}
+.caution{color:var(--warn);font-size:12.5px}
 </style></head>
 <body><main>
-<header><h1>CBB Picks</h1><p>Monday, November 9, 2026 · updated Nov 9, 6:42 PM ET</p></header>
+<header><h1>CBB Picks</h1><p>Monday, November 9, 2026 · updated Nov 9, 8:34 PM ET</p></header>
 
+<nav class="tabs" role="tablist">
+<button role="tab" id="t-today" aria-controls="p-today" aria-selected="true">Today</button>
+<button role="tab" id="t-tomorrow" aria-controls="p-tomorrow" aria-selected="false">Tomorrow · Tue Nov 10<span class="count">2</span></button>
+</nav>
+
+<div role="tabpanel" id="p-today" aria-labelledby="t-today">
 <section><h2>Today’s bets <span class="muted" style="font-weight:400">· 1 unit each, favorite moneyline</span></h2>
 <div class="picks"><p class="empty">No bets today.</p></div></section>
 
 <section><h2>Watch list</h2><p class="note">Not bets. Worth a manual check; a later update can move these into today’s bets.</p>
-<div class="scroll"><table><thead><tr><th>Game</th><th>Tip</th><th class="num">Spread</th><th class="num">Book</th><th class="num">Kalshi</th></tr></thead><tbody><tr><td>Columbia Lions <span class="muted">vs Stonehill Skyhawks</span></td><td>7:00 PM ET</td><td class="num">13.5</td><td class="num">−1000</td><td class="num">89¢</td></tr></tbody></table></div></section>
+<div class="scroll"><table><thead><tr><th>Game</th><th>Tip</th><th class="num">Spread</th><th class="num">Book</th><th class="num">Kalshi</th></tr></thead><tbody><tr><td>Stonehill Skyhawks <span class="muted">@ Columbia Lions</span></td><td>7:00 PM ET</td><td class="num">no line yet</td><td class="num">–</td><td class="num">–</td></tr></tbody></table></div></section>
+</div>
+
+<div role="tabpanel" id="p-tomorrow" aria-labelledby="t-tomorrow" hidden>
+<section><h2>Tomorrow’s candidates</h2><p class="note">Not bets yet. These games already fit; whether they become picks
+depends on the line (spread 4–8). Teams playing today can still move in or out. Tomorrow’s 4:00 AM ET update decides.</p>
+<div class="scroll"><table><thead><tr><th>Game</th><th>Tip</th><th class="num">Spread</th><th class="num">Book</th><th>Status</th></tr></thead><tbody><tr><td>Texas State Bobcats <span class="muted">@ UT Rio Grande Valley Vaqueros</span></td><td>7:30 PM ET</td><td class="num">no line yet</td><td class="num">–</td><td class="status"><span class="pending">Pending the line</span></td></tr><tr><td>Hofstra Pride <span class="muted">@ Arizona State Sun Devils</span></td><td>9:00 PM ET</td><td class="num">no line yet</td><td class="num">–</td><td class="status"><span class="pending">Pending the line</span></td></tr></tbody></table></div></section>
+</div>
+<script>
+(function(){
+  var tabs = document.querySelectorAll('.tabs button');
+  function show(id){
+    tabs.forEach(function(b){
+      var on = b.id === 't-' + id;
+      b.setAttribute('aria-selected', on);
+      document.getElementById(b.getAttribute('aria-controls')).hidden = !on;
+    });
+  }
+  tabs.forEach(function(b){ b.addEventListener('click', function(){
+    var id = b.id.slice(2); show(id); history.replaceState(null, '', '#' + id);
+  }); });
+  if (location.hash === '#tomorrow') show('tomorrow');
+})();
+</script>
 
 <section><h2>2026–27 record</h2><div class="stats"><div class="stat"><div class="label">Bets</div><div class="value">0</div><div class="muted">0–0</div></div><div class="stat"><div class="label">Units at the book</div><div class="value">+0.00</div><div class="muted">ROI –</div></div><div class="stat"><div class="label">Units at Kalshi</div><div class="value">+0.00</div><div class="muted">ROI – on 0 bets</div></div></div></section>
 
