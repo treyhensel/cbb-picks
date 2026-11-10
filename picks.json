@@ -1,7 +1,26 @@
 {
- "date": "2026-11-09",
- "updated_utc": "2026-11-10T03:40Z",
- "picks": [],
+ "date": "2026-11-10",
+ "updated_utc": "2026-11-10T09:00Z",
+ "picks": [
+  {
+   "game_id": "401925107",
+   "date": "2026-11-10T00:00:00.000",
+   "tip_utc": "2026-11-11T00:30Z",
+   "neutral": 0,
+   "home": "UT Rio Grande Valley Vaqueros",
+   "away": "Texas State Bobcats",
+   "fav_is_home": false,
+   "provider": "DraftKings",
+   "spread": 6.5,
+   "home_ml": 230.0,
+   "away_ml": -285.0,
+   "kalshi_ticker": "KXNCAAMBGAME-26NOV10TXSTUTRGV-TXST",
+   "kalshi_ask": 0.75,
+   "kalshi_dec": 1.3104013104,
+   "kalshi_bid": 0.72,
+   "kalshi_maker_dec": 1.382116518
+  }
+ ],
  "record_book": {
   "bets": 0,
   "w": 0,
