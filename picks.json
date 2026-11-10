@@ -1,6 +1,6 @@
 {
  "date": "2026-11-10",
- "updated_utc": "2026-11-10T09:00Z",
+ "updated_utc": "2026-11-10T15:00Z",
  "picks": [
   {
    "game_id": "401925107",
@@ -11,14 +11,14 @@
    "away": "Texas State Bobcats",
    "fav_is_home": false,
    "provider": "DraftKings",
-   "spread": 6.5,
-   "home_ml": 230.0,
-   "away_ml": -285.0,
+   "spread": 4.5,
+   "home_ml": 190.0,
+   "away_ml": -230.0,
    "kalshi_ticker": "KXNCAAMBGAME-26NOV10TXSTUTRGV-TXST",
-   "kalshi_ask": 0.75,
-   "kalshi_dec": 1.3104013104,
-   "kalshi_bid": 0.72,
-   "kalshi_maker_dec": 1.382116518
+   "kalshi_ask": 0.69,
+   "kalshi_dec": 1.4184940416,
+   "kalshi_bid": 0.68,
+   "kalshi_maker_dec": 1.462398802
   }
  ],
  "record_book": {
