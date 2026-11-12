@@ -1,26 +1,7 @@
 {
  "date": "2026-11-11",
- "updated_utc": "2026-11-11T21:45Z",
- "picks": [
-  {
-   "game_id": "401911012",
-   "date": "2026-11-11T00:00:00.000",
-   "tip_utc": "2026-11-12T00:00Z",
-   "neutral": 0,
-   "home": "Massachusetts Minutemen",
-   "away": "UMass Lowell River Hawks",
-   "fav_is_home": true,
-   "provider": "DraftKings",
-   "spread": 7.5,
-   "home_ml": -375.0,
-   "away_ml": 295.0,
-   "kalshi_ticker": "KXNCAAMBGAME-26NOV11MASSLMASS-MASS",
-   "kalshi_ask": 0.78,
-   "kalshi_dec": 1.2626071322,
-   "kalshi_bid": 0.77,
-   "kalshi_maker_dec": 1.2934949814
-  }
- ],
+ "updated_utc": "2026-11-12T02:20Z",
+ "picks": [],
  "record_book": {
   "bets": 1,
   "w": 1,
