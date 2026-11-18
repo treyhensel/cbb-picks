@@ -1,6 +1,6 @@
 {
  "date": "2026-11-18",
- "updated_utc": "2026-11-18T17:42Z",
+ "updated_utc": "2026-11-18T22:29Z",
  "picks": [
   {
    "game_id": "401925782",
@@ -10,15 +10,15 @@
    "home": "Duquesne Dukes",
    "away": "Howard Bison",
    "fav_is_home": true,
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": 4.5,
    "home_ml": -225.0,
    "away_ml": 185.0,
    "kalshi_ticker": "KXNCAAMBGAME-26NOV18HOWDUQ-DUQ",
-   "kalshi_ask": 0.67,
-   "kalshi_dec": 1.4588381521,
-   "kalshi_bid": 0.66,
-   "kalshi_maker_dec": 1.5061896865
+   "kalshi_ask": 0.66,
+   "kalshi_dec": 1.4799292002,
+   "kalshi_bid": 0.65,
+   "kalshi_maker_dec": 1.5290958265
   }
  ],
  "record_book": {
