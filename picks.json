@@ -1,26 +1,7 @@
 {
  "date": "2026-11-20",
- "updated_utc": "2026-11-20T17:26Z",
- "picks": [
-  {
-   "game_id": "401919826",
-   "date": "2026-11-20T00:00:00.000",
-   "tip_utc": "2026-11-20T20:00Z",
-   "neutral": 1,
-   "home": "UAlbany Great Danes",
-   "away": "Western Illinois Leathernecks",
-   "fav_is_home": true,
-   "provider": "Draft Kings",
-   "spread": 6.5,
-   "home_ml": -290.0,
-   "away_ml": 235.0,
-   "kalshi_ticker": "KXNCAAMBGAME-26NOV20WIUALBY-ALBY",
-   "kalshi_ask": 0.72,
-   "kalshi_dec": 1.3621899656,
-   "kalshi_bid": 0.71,
-   "kalshi_maker_dec": 1.4013389093
-  }
- ],
+ "updated_utc": "2026-11-20T22:08Z",
+ "picks": [],
  "record_book": {
   "bets": 3,
   "w": 3,
