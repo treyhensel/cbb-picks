@@ -1,6 +1,6 @@
 {
  "date": "2026-11-21",
- "updated_utc": "2026-11-21T11:57Z",
+ "updated_utc": "2026-11-21T12:25Z",
  "picks": [
   {
    "game_id": "401919828",
@@ -33,8 +33,8 @@
    "home_ml": 180.0,
    "away_ml": -218.0,
    "kalshi_ticker": "KXNCAAMBGAME-26NOV21USDUCI-UCI",
-   "kalshi_ask": 0.65,
-   "kalshi_dec": 1.5016706086,
+   "kalshi_ask": 0.66,
+   "kalshi_dec": 1.4799292002,
    "kalshi_bid": 0.64,
    "kalshi_maker_dec": 1.5527178774
   }
@@ -54,10 +54,10 @@
   "roi": 0.3199128157310714
  },
  "record_close": {
-  "bets": 4,
-  "w": 4,
+  "bets": 5,
+  "w": 5,
   "l": 0,
-  "units": 1.5057447801920636,
-  "roi": 0.3764361950480159
+  "units": 2.026578113525397,
+  "roi": 0.40531562270507937
  }
 }
