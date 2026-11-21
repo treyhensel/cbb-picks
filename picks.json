@@ -1,6 +1,6 @@
 {
  "date": "2026-11-21",
- "updated_utc": "2026-11-21T15:00Z",
+ "updated_utc": "2026-11-21T16:30Z",
  "picks": [
   {
    "game_id": "401919828",
@@ -10,7 +10,7 @@
    "home": "Mercyhurst Lakers",
    "away": "Western Illinois Leathernecks",
    "fav_is_home": true,
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": 5.5,
    "home_ml": -245.0,
    "away_ml": 200.0,
@@ -28,15 +28,15 @@
    "home": "Austin Peay Governors",
    "away": "UT Rio Grande Valley Vaqueros",
    "fav_is_home": true,
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": 4.5,
    "home_ml": -192.0,
    "away_ml": 160.0,
    "kalshi_ticker": "KXNCAAMBGAME-26NOV21UTRGVPEAY-PEAY",
-   "kalshi_ask": 0.64,
-   "kalshi_dec": 1.5240928599,
-   "kalshi_bid": 0.63,
-   "kalshi_maker_dec": 1.57708993
+   "kalshi_ask": 0.65,
+   "kalshi_dec": 1.5016706086,
+   "kalshi_bid": 0.64,
+   "kalshi_maker_dec": 1.5527178774
   },
   {
    "game_id": "401917538",
@@ -46,7 +46,7 @@
    "home": "San Diego Toreros",
    "away": "UC Irvine Anteaters",
    "fav_is_home": false,
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": 4.5,
    "home_ml": 170.0,
    "away_ml": -205.0,
@@ -55,6 +55,24 @@
    "kalshi_dec": 1.4799292002,
    "kalshi_bid": 0.65,
    "kalshi_maker_dec": 1.5290958265
+  },
+  {
+   "game_id": "401911310",
+   "date": "2026-11-21T00:00:00.000",
+   "tip_utc": "2026-11-22T00:00Z",
+   "neutral": 0,
+   "home": "Vermont Catamounts",
+   "away": "Brown Bears",
+   "fav_is_home": true,
+   "provider": "Draft Kings",
+   "spread": 4.5,
+   "home_ml": -192.0,
+   "away_ml": 160.0,
+   "kalshi_ticker": "KXNCAAMBGAME-26NOV21BRWNUVM-UVM",
+   "kalshi_ask": 0.64,
+   "kalshi_dec": 1.5240928599,
+   "kalshi_bid": 0.63,
+   "kalshi_maker_dec": 1.57708993
   }
  ],
  "record_book": {
