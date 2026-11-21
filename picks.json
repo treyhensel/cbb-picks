@@ -1,25 +1,7 @@
 {
  "date": "2026-11-21",
- "updated_utc": "2026-11-21T09:00Z",
+ "updated_utc": "2026-11-21T11:57Z",
  "picks": [
-  {
-   "game_id": "401921169",
-   "date": "2026-11-21T00:00:00.000",
-   "tip_utc": "2026-11-21T18:00Z",
-   "neutral": 0,
-   "home": "Cleveland State Vikings",
-   "away": "Kent State Golden Flashes",
-   "fav_is_home": false,
-   "provider": "DraftKings",
-   "spread": 4.5,
-   "home_ml": 150.0,
-   "away_ml": -180.0,
-   "kalshi_ticker": "KXNCAAMBGAME-26NOV21KENTCLEV-KENT",
-   "kalshi_ask": 0.62,
-   "kalshi_dec": 1.5711116558,
-   "kalshi_bid": 0.61,
-   "kalshi_maker_dec": 1.6282315817
-  },
   {
    "game_id": "401919828",
    "date": "2026-11-21T00:00:00.000",
@@ -48,28 +30,28 @@
    "fav_is_home": false,
    "provider": "DraftKings",
    "spread": 5.5,
-   "home_ml": 170.0,
-   "away_ml": -205.0,
+   "home_ml": 180.0,
+   "away_ml": -218.0,
    "kalshi_ticker": "KXNCAAMBGAME-26NOV21USDUCI-UCI",
-   "kalshi_ask": 0.66,
-   "kalshi_dec": 1.4799292002,
-   "kalshi_bid": 0.65,
-   "kalshi_maker_dec": 1.5290958265
+   "kalshi_ask": 0.65,
+   "kalshi_dec": 1.5016706086,
+   "kalshi_bid": 0.64,
+   "kalshi_maker_dec": 1.5527178774
   }
  ],
  "record_book": {
   "bets": 4,
-  "w": 3,
-  "l": 1,
-  "units": -0.02274391013504995,
-  "roi": -0.005685977533762487
+  "w": 4,
+  "l": 0,
+  "units": 1.2849483975572578,
+  "roi": 0.32123709938931444
  },
  "record_kalshi": {
   "bets": 4,
-  "w": 3,
-  "l": 1,
-  "units": -0.06480159181968359,
-  "roi": -0.016200397954920898
+  "w": 4,
+  "l": 0,
+  "units": 1.2796512629242855,
+  "roi": 0.3199128157310714
  },
  "record_close": {
   "bets": 4,
