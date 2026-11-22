@@ -1,6 +1,6 @@
 {
  "date": "2026-11-22",
- "updated_utc": "2026-11-22T15:00Z",
+ "updated_utc": "2026-11-22T16:48Z",
  "picks": [
   {
    "game_id": "401929023",
@@ -29,14 +29,14 @@
    "away": "West Florida Argonauts",
    "fav_is_home": true,
    "provider": "DraftKings",
-   "spread": 6.5,
+   "spread": 5.5,
    "home_ml": -245.0,
    "away_ml": 200.0,
    "kalshi_ticker": "KXNCAAMBGAME-26NOV22UWFLUSA-USA",
-   "kalshi_ask": 0.71,
-   "kalshi_dec": 1.3804280155,
-   "kalshi_bid": 0.7,
-   "kalshi_maker_dec": 1.4211105979
+   "kalshi_ask": 0.69,
+   "kalshi_dec": 1.4184940416,
+   "kalshi_bid": 0.68,
+   "kalshi_maker_dec": 1.462398802
   },
   {
    "game_id": "401928999",
