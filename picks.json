@@ -1,6 +1,6 @@
 {
  "date": "2026-11-22",
- "updated_utc": "2026-11-22T09:00Z",
+ "updated_utc": "2026-11-22T15:00Z",
  "picks": [
   {
    "game_id": "401929023",
@@ -30,13 +30,31 @@
    "fav_is_home": true,
    "provider": "DraftKings",
    "spread": 6.5,
-   "home_ml": -285.0,
-   "away_ml": 230.0,
+   "home_ml": -245.0,
+   "away_ml": 200.0,
    "kalshi_ticker": "KXNCAAMBGAME-26NOV22UWFLUSA-USA",
-   "kalshi_ask": 0.7,
-   "kalshi_dec": 1.3991884707,
-   "kalshi_bid": 0.69,
-   "kalshi_maker_dec": 1.4414554664
+   "kalshi_ask": 0.71,
+   "kalshi_dec": 1.3804280155,
+   "kalshi_bid": 0.7,
+   "kalshi_maker_dec": 1.4211105979
+  },
+  {
+   "game_id": "401928999",
+   "date": "2026-11-22T00:00:00.000",
+   "tip_utc": "2026-11-22T23:00Z",
+   "neutral": 1,
+   "home": "Valparaiso Beacons",
+   "away": "Southern Miss Golden Eagles",
+   "fav_is_home": true,
+   "provider": "DraftKings",
+   "spread": 7.5,
+   "home_ml": -375.0,
+   "away_ml": 295.0,
+   "kalshi_ticker": "KXNCAAMBGAME-26NOV22VALPUSM-VALP",
+   "kalshi_ask": 0.77,
+   "kalshi_dec": 1.2781235102,
+   "kalshi_bid": 0.76,
+   "kalshi_maker_dec": 1.3102862713
   }
  ],
  "record_book": {
