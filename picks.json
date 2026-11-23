@@ -1,26 +1,45 @@
 {
- "date": "2026-11-22",
- "updated_utc": "2026-11-23T01:52Z",
- "picks": [],
+ "date": "2026-11-23",
+ "updated_utc": "2026-11-23T09:00Z",
+ "picks": [
+  {
+   "game_id": "401920721",
+   "date": "2026-11-23T00:00:00.000",
+   "tip_utc": "2026-11-24T03:00Z",
+   "neutral": 0,
+   "home": "UNLV Rebels",
+   "away": "Eastern Washington Eagles",
+   "fav_is_home": true,
+   "provider": "Draft Kings",
+   "spread": 7.5,
+   "home_ml": -355.0,
+   "away_ml": 280.0,
+   "kalshi_ticker": "KXNCAAMBGAME-26NOV23EWUUNLV-UNLV",
+   "kalshi_ask": 0.76,
+   "kalshi_dec": 1.294049443,
+   "kalshi_bid": 0.74,
+   "kalshi_maker_dec": 1.3452305523
+  }
+ ],
  "record_book": {
-  "bets": 9,
-  "w": 7,
-  "l": 2,
-  "units": 0.7386957770121845,
-  "roi": 0.08207730855690938
+  "bets": 12,
+  "w": 8,
+  "l": 4,
+  "units": -0.9104270300053594,
+  "roi": -0.07586891916711329
  },
  "record_kalshi": {
-  "bets": 9,
-  "w": 7,
-  "l": 2,
-  "units": 0.7552837941276964,
-  "roi": 0.08392042156974405
+  "bets": 12,
+  "w": 8,
+  "l": 4,
+  "units": -0.8455277351853021,
+  "roi": -0.07046064459877517
  },
  "record_close": {
-  "bets": 9,
-  "w": 7,
+  "bets": 11,
+  "w": 9,
   "l": 2,
-  "units": 0.955574712164853,
-  "roi": 0.106174968018317
+  "units": 1.9308978614010457,
+  "roi": 0.1755361692182769
  }
 }
