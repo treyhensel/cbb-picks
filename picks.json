@@ -1,44 +1,7 @@
 {
  "date": "2026-11-23",
- "updated_utc": "2026-11-23T15:00Z",
- "picks": [
-  {
-   "game_id": "401921208",
-   "date": "2026-11-23T00:00:00.000",
-   "tip_utc": "2026-11-24T01:00Z",
-   "neutral": 1,
-   "home": "Utah Valley Wolverines",
-   "away": "Stephen F. Austin Lumberjacks",
-   "fav_is_home": true,
-   "provider": "DraftKings",
-   "spread": 4.5,
-   "home_ml": -185.0,
-   "away_ml": 154.0,
-   "kalshi_ticker": "KXNCAAMBGAME-26NOV23SFAUVU-UVU",
-   "kalshi_ask": 0.64,
-   "kalshi_dec": 1.5240928599,
-   "kalshi_bid": 0.63,
-   "kalshi_maker_dec": 1.57708993
-  },
-  {
-   "game_id": "401920721",
-   "date": "2026-11-23T00:00:00.000",
-   "tip_utc": "2026-11-24T03:00Z",
-   "neutral": 0,
-   "home": "UNLV Rebels",
-   "away": "Eastern Washington Eagles",
-   "fav_is_home": true,
-   "provider": "DraftKings",
-   "spread": 7.5,
-   "home_ml": -340.0,
-   "away_ml": 270.0,
-   "kalshi_ticker": "KXNCAAMBGAME-26NOV23EWUUNLV-UNLV",
-   "kalshi_ask": 0.76,
-   "kalshi_dec": 1.294049443,
-   "kalshi_bid": 0.75,
-   "kalshi_maker_dec": 1.3275254097
-  }
- ],
+ "updated_utc": "2026-11-23T20:44Z",
+ "picks": [],
  "record_book": {
   "bets": 12,
   "w": 8,
