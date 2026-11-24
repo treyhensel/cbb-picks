@@ -1,21 +1,26 @@
 {
  "date": "2026-11-23",
- "updated_utc": "2026-11-23T20:44Z",
- "picks": [],
- "record_book": {
-  "bets": 12,
-  "w": 8,
-  "l": 4,
-  "units": -0.9104270300053594,
-  "roi": -0.07586891916711329
- },
- "record_kalshi": {
-  "bets": 12,
-  "w": 8,
-  "l": 4,
-  "units": -0.8455277351853021,
-  "roi": -0.07046064459877517
- },
+ "updated_utc": "2026-11-24T00:20Z",
+ "picks": [
+  {
+   "game_id": "401921208",
+   "date": "2026-11-23T00:00:00.000",
+   "tip_utc": "2026-11-24T01:00Z",
+   "neutral": 1,
+   "home": "Utah Valley Wolverines",
+   "away": "Stephen F. Austin Lumberjacks",
+   "fav_is_home": true,
+   "provider": "Draft Kings",
+   "spread": 4.5,
+   "home_ml": -185.0,
+   "away_ml": 154.0,
+   "kalshi_ticker": "KXNCAAMBGAME-26NOV23SFAUVU-UVU",
+   "kalshi_ask": 0.62,
+   "kalshi_dec": 1.5711116558,
+   "kalshi_bid": 0.61,
+   "kalshi_maker_dec": 1.6282315817
+  }
+ ],
  "record_close": {
   "bets": 11,
   "w": 9,
