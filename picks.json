@@ -1,7 +1,44 @@
 {
- "date": "2026-11-24",
- "updated_utc": "2026-11-25T04:22Z",
- "picks": [],
+ "date": "2026-11-25",
+ "updated_utc": "2026-11-25T09:00Z",
+ "picks": [
+  {
+   "game_id": "401927399",
+   "date": "2026-11-25T00:00:00.000",
+   "tip_utc": "2026-11-25T15:00Z",
+   "neutral": 1,
+   "home": "Belmont Bruins",
+   "away": "St. Bonaventure Bonnies",
+   "fav_is_home": false,
+   "provider": "DraftKings",
+   "spread": 4.5,
+   "home_ml": 170.0,
+   "away_ml": -205.0,
+   "kalshi_ticker": "KXNCAAMBGAME-26NOV25SBONBEL-SBON",
+   "kalshi_ask": 0.64,
+   "kalshi_dec": 1.5240928599,
+   "kalshi_bid": 0.63,
+   "kalshi_maker_dec": 1.57708993
+  },
+  {
+   "game_id": "401928831",
+   "date": "2026-11-25T00:00:00.000",
+   "tip_utc": "2026-11-25T17:30Z",
+   "neutral": 1,
+   "home": "Wright State Raiders",
+   "away": "Yale Bulldogs",
+   "fav_is_home": true,
+   "provider": "DraftKings",
+   "spread": 6.5,
+   "home_ml": -258.0,
+   "away_ml": 210.0,
+   "kalshi_ticker": "KXNCAAMBGAME-26NOV25YALEWRST-WRST",
+   "kalshi_ask": 0.71,
+   "kalshi_dec": 1.3804280155,
+   "kalshi_bid": 0.69,
+   "kalshi_maker_dec": 1.4414554664
+  }
+ ],
  "record_close": {
   "bets": 12,
   "w": 9,
